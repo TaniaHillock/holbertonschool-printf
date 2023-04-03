@@ -5,6 +5,8 @@ Requirements
 General
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+
+
 All your files should end with a new line
 A README.md file, at the root of the folder of the project is mandatory
 Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
@@ -16,6 +18,7 @@ Don’t forget to push your header file
 All your header files should be include guarded
 Note that we will not provide the _putchar function for this project
 GitHub
+
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
 More Info
@@ -105,6 +108,4 @@ Len:[12]
 Unknown:[%r]
 Unknown:[%r]
 
-We strongly encourage you to work all together on a set of tests
-If the task does not specify what to do with an edge case, do the same as printf.
 
